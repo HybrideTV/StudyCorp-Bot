@@ -1,0 +1,15 @@
+{
+    "role_vendeur": "",
+    "role_vendeur_certif": "",
+    "role_permission_ban": "",
+    "role_permission_mute": "",
+    "role_permission_blacklist": "",
+    "role_permission_bypassautomod": "",
+    "role_permission_clear": "",
+    "role_permission_kick": "",
+    "role_permission_warn": "",
+    "role_moderateur": "",
+    "category_support": "",
+    "category_commande": "",
+    "channel_logs": ""
+  }
